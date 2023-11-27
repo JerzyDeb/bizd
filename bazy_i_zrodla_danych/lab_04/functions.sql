@@ -158,7 +158,3 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('Liczba departamentów: ' || departments_count);
     DBMS_OUTPUT.PUT_LINE('Liczba pracowników: ' || employees_count);
 END;
-
-
--- ZADANIE 7
-
